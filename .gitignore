@@ -1,0 +1,9 @@
+#ignore all kind of files
+*.*
+#except php files
+!*.py
+!*.ipynb
+# folders
+csv_shireren/
+example_images/
+output/
